@@ -1,0 +1,84 @@
+ Develop login functionality for facebook-------> User 1
+
+
+- Develop username  ( start with upper case ,alpha numeric ,special character)
+- password field
+- sign up
+
+
+
+Above reqd  dev   develops it
+
+Testing application
+
+
+UAT(user acceptance testing) ---> validate reqd  
+
+
+Prod--->end user
+
+Static testing:
+
+- executing code
+
+eg: test plan creation, test case, reviews
+
+
+dynamic testing
+- code is getting executed
+
+
+
+
+
+Test Plan
+- Scope
+      - Login functionality
+       - Account creation func
+       - Dashboard functionality
+
+- Not Scope
+
+
+Expected result: user shoud be able to login with valid username and password
+actual result:
+test steps 
+
+
+
+Black box testing----> confined to input and output. Not related to internal logics and code of application for eg:  functional testing ,smoke testing ,sanity , regression
+
+White box testing: concentrates inner logics and code    ----Eg , Unit testing
+
+
+Smoke testing: Tests weather application or build is testable or not
+For eg; Url getting launched
+
+Functional testing: Testing of the functionalities .  For eg: Login functionality , transction
+
+Integration Testing : Testing multiple functionalities and validate their dependencies on each other
+Interface testing: Testing happens between two or multiple systems   
+
+
+Difference between interface and integration
+
+Interface happens between two or multiple systems
+Integration happens within system
+
+
+Unit testing--->Smoke testing--->Functional testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
