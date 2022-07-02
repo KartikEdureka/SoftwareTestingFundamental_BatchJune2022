@@ -1,0 +1,30 @@
+Development--------->
+
+
+
+
+Application: Ecommerce website
+
+
+Dev 1: Login
+Dev2: Account page creation
+Dev3: Dashboard
+
+
+
+Create Account in Github.com
+Install Git desktop version
+https://desktop.github.com/
+
+
+Git clone command : copy file from remote repository to local
+
+
+
+Github: To store data in remote repository so that every team member can access and for version controlling
+Used for distributed integration
+
+Jenkins: Jenkins is for implementation of CI/CD. Creation of build and execution of code by scheduling
+
+
+
