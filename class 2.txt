@@ -1,0 +1,175 @@
+Functioanl requirement----> BA, Product owner
+(FRD ,BRD, SRS),. JIRA ,mail
+
+
+
+Login Functionality:
+
+User/client
+REQ_1 : Requirement: Implement Login functionality for facebook page
+Need to create Account creation page
+
+
+Scope
+- to add login
+- account creation
+
+
+Not in scope
+- usability
+- performance testing
+
+
+BA/Product owner
+TR_1 :Test Conditions: BA or product owner, sometimes they discuss feasibility with developer
+
+Technical requirement created by BA/Product owner
+Username:
+- My username should be between 5- 16 character
+- Should containg Alphanumeric
+- Should not contain special character
+
+
+Password:
+- Should containg alpha numeric character
+- First character to be in upper case
+- should contain special character-
+- should be between 5-16 character
+
+
+
+
+
+Requirement-------> test conditions-------->test scenario--------->test case
+
+TDD----> Test driven development
+
+
+
+
+Difference; test condition is given to us by BA/Product owner
+
+Test scenarios will created by Qa
+
+
+
+QA/tester team will create
+
+
+Scenarios 1: User tries to login with valid username and password
+Test Data:   Username: Edureka
+
+Scenario 2: Valid user with invalid password
+
+Scenario 3: Invalid user with valid password
+
+Scenario 4: Blank username and blank password
+
+Scenario 5: Both invalid username and invalid password
+
+Scenario 6: Enter username and keep password blank
+
+Scenario 7: Enter password and keep username blank
+
+
+
+Test conditions /Requirement---->BA
+Scenarios and test cases will be written by QA
+
+
+
+Test cases
+
+Input condition
+Precondition
+Output
+Expected behaviour
+Actual behaviour
+
+
+
+
+
+Facebook
+
+- Login functionality
+- Account creation
+- Adding/uploading videos
+- Friend request
+- Private
+
+
+
+
+Google
+- Gmail
+- Google map
+- Gpay
+
+
+Requirement Tracebility matrix: tacing requiremnt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
