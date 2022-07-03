@@ -1,0 +1,77 @@
+  Agile = Flexible
+
+
+Ecommerce website
+Release 1: Monthly
+- Login
+- Account Creation
+
+
+- Dashboard
+- Add to cart
+
+----------------------------
+- Transaction
+
+
+Sprint----------------> Time frame in agile which contains deliverable items
+
+Sprint maybe of 2/3 weeks
+
+1 Sprint contains 10 working day
+
+
+
+
+
+JiRA-------> Product Management Application
+
+- PO
+- Dev
+- QA
+
+
+JIRA---> developed by Atlassian
+Licenced tool
+
+
+User story: Small chunks of requirement
+Backlog: Requirement to be picked in future
+
+
+
+
+PO   Creating--->User story
+Dev---->Developing ----->application using user story info
+Testing----->Creating scenarios on basis of user story
+
+
+BRD/FRD/SRS
+
+
+
+Jmeter:
+- Open source tool
+- Gets easily integrated with Jenkins and Selenium
+- Jmeter can be used for stress testing ,load testing ,performance testing
+
+https://jmeter.apache.org/download_jmeter.cgi
+
+C:\apache-jmeter-5.5\apache-jmeter-5.5\bin\jmeter.bat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
